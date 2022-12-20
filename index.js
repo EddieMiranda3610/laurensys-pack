@@ -7,13 +7,13 @@ const client = new Discord.Client()
 
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.tag}.`)
-  console.log(`Lauren System Bot Version JavaScript Mode 0.1.0 Update 2`)
-  console.log(`(C) 2018 - 2021 Eddie Miranda.`)
-  console.log(`(C) 2007 - 2021 LaurenZSide.`)
+  console.log(`Lauren Announcer Version JavaScript Mode 0.1.0 Update 2`)
+  console.log(`(C) 2018 - 2022 Eddie Miranda/Maria Le Partnership.`)
+  console.log(`(C) 2007 - 2022 LaurenZSide.`)
   console.log(`No part of this program shall be copied, modified, transmitted, reused, or otherwise distributed without permission from either copyright owner.`)
   console.log(`This application is currently under development. If you would like to assist in the process: feel free to message us on Discord.`)
   console.log(`Our Discord Handles:`)
-  console.log(`EddieMiranda&Keira2000#1959`)
+  console.log(`EddieMiranda2000#1959`)
   console.log(`LaurenzSide#1609`) 
 })
 
